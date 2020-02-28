@@ -3,13 +3,16 @@ body{
 }
 
 .s1{
+
     text-align: left;
     color: green;
     font-family: fantasy;
+
 }
 
 .s2{
     text-align: center;
+
     color: yellow;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
