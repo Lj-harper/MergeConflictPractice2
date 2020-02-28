@@ -1,14 +1,24 @@
+body{
+    background-color: cadetblue;
+}
+
 .s1{
-    text-align: center;
-    color: lightcoral;
+
+    text-align: left;
+    color: green;
+    font-family: fantasy;
+
 }
 
 .s2{
     text-align: center;
-    color: black;
+
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .s3{
-    text-align: center;
-    color: darkmagenta;
+    text-align: right;
+    color: darkblue;
+    font-family: unset;
 }
